@@ -1,0 +1,9 @@
+.container {font-size: 40px; text-align: center; margin: 0 auto; }
+td {border: black 3px solid;}
+#seconds {color: blue;}
+#minutes {color: darkgreen;}
+#hours {color: rgb(192, 15, 15);}
+#days {color: gold;}
+h1 {text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+body {background-color: rgb(34, 173, 120);}
+h2, div {text-align: center;}
